@@ -19,7 +19,6 @@ public class _01_Thread extends Thread {
         // System.out.println(t.getName());
         System.out.println(Thread.currentThread().getName());
         System.out.println(16);
-         System.out.println(17);
     }
     
 }
